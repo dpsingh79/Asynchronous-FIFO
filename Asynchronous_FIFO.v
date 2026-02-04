@@ -1,4 +1,4 @@
-// Name: Ganga Sagar Tripathi
+// Name: Dileep Kumar
 // IIT Madras
 //
 module async_fifo1
